@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# Ariq's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- I like the learning environment in this class. It seems more laid-back than my other college classes which is a nice change of pace. I think I'll have a lot of fun in this class and I can't wait to see what more I'll learn.
+- I like the teachers in this class. Although they're undergrads like me, I feel as though they know what they're doing and that they'll both be fun.
+- I like the fact that I made my 1st friend in this class. My friend had two earlier classes with me but I didn't really talk to him much until this particular class where I finally made a new friend.
+- I like the fact that we're forced to attend this class. I really don't like how attendance is optional for my other classes and I feel like attendance should be mandatory for all classes because I think it's easy to get distracted when you're simply watching a video online as opposed to actually being in class.
